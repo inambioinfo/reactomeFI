@@ -1,0 +1,17 @@
+Package: reactomeFI
+Type: Package
+Title: Reactome Function Interaction Annotation
+Version: 0.99.0
+Authors@R: person("Karim", "Mezhoud", email = "kmezhoud@gmail.com", role = c("aut", "cre"))
+Description: Annotate gene-gene interaction: Direction (arrowhead style) and Type (activate, inhibite, complex, predicted, reaction...)
+Depends: RSQLite, DBI
+Suggests:testthat
+URL: http://kmezhoud.github.io/reactomeFI
+BugReports: https://github.com/kmezhoud/reactomeFI/issues
+License: GPL-3
+provider: Reactome database
+resource_url: http://www.reactome.org/pages/download-data/
+biocViews: AnnotationData, Homo_sapiens, FunctionalAnnotation
+LazyData: TRUE
+NeedsCompilation: no
+RoxygenNote: 5.0.1
