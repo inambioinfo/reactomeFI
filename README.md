@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/kmezhoud/reactomeFI.svg?branch=master)](https://travis-ci.org/kmezhoud/reactomeFI) 
+[![Travis-CI Build Status](https://travis-ci.org/kmezhoud/reactomeFI.svg?branch=master)](https://travis-ci.org/kmezhoud/reactomeFI) [![Build Status](https://travis-ci.org/kmezhoud/reactomeFI.svg?branch=master)](https://travis-ci.org/kmezhoud/reactomeFI)
 # ReactomeFI
 This package provides annotation for gene gene interaction importet from Reactome Data base.
 
